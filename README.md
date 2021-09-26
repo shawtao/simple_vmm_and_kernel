@@ -7,3 +7,6 @@
 或者直接
 `make run`
 
+##TODO
+想加入一个基本的内存管理，管理frame和page的映射
+
